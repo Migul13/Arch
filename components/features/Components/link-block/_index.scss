@@ -1,0 +1,5 @@
+@use "@wpmedia/arc-themes-components/scss";
+.b-custom-link-block {
+  @include scss.block-components("my-custom-block-token");
+  @include scss.block-properties("my-custom-block-token");
+}

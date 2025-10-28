@@ -1,0 +1,31 @@
+{
+  "social-links": {
+    "styles": {
+      "default": {
+        "color": "$global.neutral-4",
+        "display": "block",
+        "font-family": "$alias.font-family-secondary",
+        "components": {
+          "paragraph": {
+            "margin-block-end": "$global.spacing-4"
+          }
+        }
+      },
+      "desktop": {
+        "display": "flex"
+      }
+    }
+  },
+  "social-links-left": {
+    "styles": {
+      "default": {
+        "components": {
+          "paragraph": {
+            "margin-block-end": "$global.spacing-6"
+          }
+        }
+      },
+      "desktop": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "my-custom-block-token": {
+    "styles": {
+      "default": {
+        "components": {
+          "link": {
+            "text-decoration": "none"
+          }
+        }
+      }
+    }
+  }
+}
